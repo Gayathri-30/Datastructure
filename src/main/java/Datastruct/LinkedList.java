@@ -1,5 +1,6 @@
 package Datastruct;
 
+
 public class LinkedList {
 	 public class Node 
 	    {
